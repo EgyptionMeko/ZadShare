@@ -1,1 +1,9 @@
-
+{
+	"zShLogin": {
+		"error": "",
+		"token": "asdfghjkl"
+	},
+	"zShForgotPassword": {
+		"error": ""
+	}
+}
