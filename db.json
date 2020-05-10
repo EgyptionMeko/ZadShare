@@ -7,6 +7,10 @@
 		"error": ""
 	}
 	,
+	"zShTest": {
+		"Haitham": "Amir"
+	}
+	,
 	"zShGetItem": {
 		 "itemid": 1,
     "itemmenuid": 208,
