@@ -15,20 +15,7 @@
     "priceafterdiscount": 15.49,
     "details": "Double Burger",
     "pickuptype": 1,
-    "quantity": 32,
-    "images": [{
-            "src": "http://192.168.1.2:8090/assets/Images/Item1.jpg"
-        },
-        {
-            "src": "http://192.168.1.2:8090/assets/Images/Item2.jpg"
-        },
-        {
-            "src": "http://192.168.1.2:8090/assets/Images/Item3.jpg"
-        },
-        {
-            "src": "http://192.168.1.2:8090/assets/Images/Item4.jpg"
-        }
-    ]
+    "quantity": 32  
 	}
 }
 }
