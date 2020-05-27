@@ -12,12 +12,7 @@
  "rating": 3
 }
 	,
-	"forgot_pwd": 
-	{
- "error": null
-}
-
-	,
+	
 	"sign_up_restaurant_profile": 
 	{
  "restaurantid": 1,
@@ -27,12 +22,7 @@
  "restaurantmob": "01002064371",
  "usertoken": "56jfy6ras856sdg67r8tre56s"
 }
-	,
-	"update_restaurant_address": 
-	{
- "error": null
-}
-
+	
 	,
 	"update_restaurant_servicetype": 
 	{
