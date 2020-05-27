@@ -10,16 +10,6 @@
 	"zShTest": {
 		"Haitham": "Amiro"
 	}
-	,
-	"zShGetItem": {
-		 "itemid": 1,
-    "itemmenuid": 208,
-    "name": "Burger",
-    "price": 20.99,
-    "priceafterdiscount": 15.49,
-    "details": "Double Burger",
-    "pickuptype": 1,
-    "quantity": 32  
-	}
+	
 }
 
